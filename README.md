@@ -32,11 +32,6 @@ Target: count(cnt) - count of the total number of bikes rented
 4. Visualization
 - Created a scatter plot comparing actual vs predicted bike rental counts to visualize model performance
 
-## Results
-Model                RMSE           R2
-Linear Regression    100.5020       0.6810
-LightGBM             40.8325        0.9473
-
 ## Conclusion
 The LightGBM model performed better than Linear Regression, achieving a lower RMSE and higher R2 value
 Hence, LightGBM was selected as the final model for predicting hourly bike rentals.
