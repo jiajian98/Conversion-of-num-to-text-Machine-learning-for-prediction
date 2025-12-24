@@ -1,5 +1,5 @@
 ## Objective
-This project predicrs the total number of bikes rented per hour using machine learning models.
+This project predicts the total number of bikes rented per hour using machine learning models.
 
 ## Model Used
 Two regression models were trained and compared:
